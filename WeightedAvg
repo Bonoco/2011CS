@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class WeightedAvg{
+  public static void main (strings[] args){
+    Scanner input = new Scanner(System.in);
+
+    system.out.print("Type in grade:");
+    double degree = input.nextdouble() * V1W1+V2;
+
+
+
+    input.close();
+
+
+  }
+}

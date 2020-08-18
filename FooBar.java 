@@ -1,0 +1,11 @@
+/* Name: Ernesto Garcia
+   CIN: 306774005
+   Class: CS-2011-5 219
+
+it will print the random name and the amount of letters you tell it to. but with an opinion
+*/
+public class FooBar{
+  public static void main(String[]args){
+  System.out.println("nice");
+  }
+}

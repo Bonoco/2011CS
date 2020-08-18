@@ -1,0 +1,67 @@
+import javA
+  public statuc getsimplesentence(string[]subject, string[]verbs, string[]adjective){
+  int subjetctIndex = (int) math.random*subject.lenght;
+  int verbIndex = (int) math.rndom*verb.lentgh;
+  int adjectiveindex = (int)math.random*adjective.length;
+
+  return (subject[subjectIndex] + ""+ verb[verbIndex]+ ""adjective[adjectiveIndex])
+
+  }
+  public static void main(string[]args){
+  string[]subject = {"work", "fsfds", "fsdf"};
+  strring[]verb={"fsf","fsdf"};
+  string[]adjective = {"c"};
+  S.O.P(getsimplesentence(subject, verb, adjective));
+  }
+
+
+  //drop lowest grade problem
+
+  public static void droplowest(double[]scores, doubt[]weights){
+  double minRatio = scores[0] / weight[0];
+  for(int i = 1; j<scores.length; i++){
+  scores[j] / weighs[j]/weight[i];
+  index=j;
+  }
+  scores[index] = 0;
+  weights[index] = 0;
+  }
+
+  //other lab
+  r.nextInt (max.lenght + 1)
+  return(new int[Math.rancdom()*max.length()]);
+
+
+--------------
+public static int[] noDuplicates(int[]arr){
+ArraySort(arr);
+int[]arrCopy = Array.copyof(arr, arr.length);
+range = 0;
+array.sort(arrCopy);
+for (int i=0; i<arr.length; i++){
+
+}
+
+}
+
+public static int[] noDuplicates(int[]arr){
+int[]temp = new int[arr.length];
+int count = 0;
+for(int i = 0; i <arr.length; i++){
+int candidate = arr[i];
+boolean acceptable = true;
+            for (int j = 0; j < count; j ++)
+            if (candidate == temp[j]){
+            acceptable=false;
+            break;
+            }
+            if(acceptable){
+            temp[count] = candidate;
+            count++;
+            }
+            array.copyof(temp, count);
+            return
+
+//if(arr[i] is not in temp, add it to temp.)
+
+}
